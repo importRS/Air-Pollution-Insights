@@ -10,15 +10,15 @@
 </ul>
 <hr>
 <h2>Some Glimpses:</h2> 
-<img src = "README_Resources/yearselect.png" width= "400" > <span> <img src = "README_Resources/hotspotsmap.png" width= "400" >
-<img src = "README_Resources/before2001.png" width= "350" > <span> <img src = "README_Resources/after2001.png" width= "350" >
-<img src = "README_Resources/heatmap.png" width= "400" > <span> <img src = "README_Resources/forecast.png" width= "400" >	
+<pre align="center"><img src = "README_Resources/yearselect.png" width= "400">    <img src = "README_Resources/hotspotsmap.png" width= "400"></pre>
+<pre align = "center"><img src = "README_Resources/before2001.png" width= "350" height="300" >    <img src = "README_Resources/after2001.png" width= "350" height="300"></pre>
+<pre align = "center"><img src = "README_Resources/heatmap.png" width= "400" height="300" >    <img src = "README_Resources/forecast.png" width= "400" height="300"></pre>
 <hr>
 <p>We made this Project for ApScript Hackathon in ML Domain.</p>
 
 <p>To Get more Insights feel free to checkout the PPT.</p>
 <hr>
- <h2> Deployment using <em>Flask</em> for location of Hotspots :</h2>
+<h2> Deployment using <em>Flask</em> for location of Hotspots :</h2>
 <img src="README_Resources/modelgif.gif" width="600">
 <hr>
 <h2> Dataset Sources : </h2>
