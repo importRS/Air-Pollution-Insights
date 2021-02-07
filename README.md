@@ -10,8 +10,9 @@
 </ul>
 <hr>
 <h2>Some Glimpses:</h2> 
-
-<img src = "README_Resources/webpage.png" width= "266" > <span> <img src = "README_Resources/yearselect.png" width= "266" > <span> <img src = "README_Resources/hotspotsmap.png" width= "266" >
+<img src = "README_Resources/yearselect.png" width= "400" > <span> <img src = "README_Resources/hotspotsmap.png" width= "400" >
+<img src = "README_Resources/before2001.png" width= "350" > <span> <img src = "README_Resources/after2001.png" width= "350" >
+<img src = "README_Resources/heatmap.png" width= "400" > <span> <img src = "README_Resources/forecast.png" width= "400" >	
 <hr>
 <p>We made this Project for ApScript Hackathon in ML Domain.</p>
 
